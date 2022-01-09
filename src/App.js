@@ -122,6 +122,7 @@ class App extends Component {
     // const searchField = this.state.searchField;
     return(
       <div className="App">
+        <h1>Hello to React</h1>
         <SearchBox 
           placeholder="search monsters"
           handleChange={e =>{this.setState({searchField: e.target.value});
