@@ -122,7 +122,7 @@ class App extends Component {
     // const searchField = this.state.searchField;
     return(
       <div className="App">
-        <h1>Hello to React</h1>
+        <h1>This is React training Course</h1>
         <h1>Hello to coding</h1>
         <SearchBox 
           placeholder="search monsters"
