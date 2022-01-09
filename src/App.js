@@ -122,6 +122,7 @@ class App extends Component {
     // const searchField = this.state.searchField;
     return(
       <div className="App">
+        <h1>The Main folder of the study is here :</h1>
         <h1>Hello to React</h1>
         <h1>Hello to coding</h1>
         <SearchBox 
